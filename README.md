@@ -9,7 +9,7 @@ The use of well supported, open source packages is allowed.
 You should complete this test yourself and shouldn't outsource any of the work.
 
 ## Technical
-We primarily use React Native for our all based system. We are also looking out for libraries such as Redux, React Navigation and the Expo framework.
+We primarily use React Native for our all based system. We are also looking out for libraries such as Redux, React Navigation and the Expo framework. But feel free to use which ever tools you feel fit the needs of the task.
 
 ## The Task
 
