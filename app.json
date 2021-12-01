@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WeatherGuide",
+    "slug": "WeatherGuide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WeatherGuide"
+}
